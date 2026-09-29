@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rahulnanhore05/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/rahulnanhore05/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/rahulnanhore05/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rahulnanhore05/Leetcode/tree/master/0344-reverse-string) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulnanhore05/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rahulnanhore05/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/rahulnanhore05/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/rahulnanhore05/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/rahulnanhore05/Leetcode/tree/master/0066-plus-one) |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rahulnanhore05/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rahulnanhore05/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
